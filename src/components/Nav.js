@@ -8,14 +8,14 @@ const Nav = () => {
 					<img src={logo} />
 				</div>
 
-				<div className="hidden items-center gap-10 uppercase text-grayishBlue  md:flex md:mr-12">
-					<a className="tracking-widest hover:text-softRed">
+				<div className="hidden items-center gap-10 uppercase text-veryDarkBlue  md:flex md:mr-12">
+					<a className="tracking-widest hover:text-softRed cursor-pointer">
 						Feature
 					</a>
-					<a className="tracking-widest hover:text-softRed">
+					<a className="tracking-widest hover:text-softRed cursor-pointer">
 						Pricing
 					</a>
-					<a className="tracking-widest hover:text-softRed">
+					<a className="tracking-widest hover:text-softRed cursor-pointer">
 						Contact
 					</a>
 					<button className="uppercase tracking-widest bg-softRed text-white px-9 py-3 rounded-md hover:bg-white hover:text-softRed hover:ring-2 hover:ring-softRed">
