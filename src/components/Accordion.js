@@ -1,19 +1,19 @@
-import arrow from '../assets/arrow.svg';
+import arrow from '../assets/icon-arrow.svg';
 
 const Accordion = () => {
 	return (
 		<section>
-			<div className="container mx-auto px-6 mb-12">
+			<div className="container mx-auto px-6 mb-16">
 				<div className="max-w-xl m-6 mx-auto overflow-hidden">
 					{/* tab-1 */}
 					<div
 						className="py-1 border-b outline-none group "
 						tabIndex={1}>
-						<div className="flex items-center justify-between py-3 text-veryDarkBlue transition duration-500 cursor-pointer group ease-in-out">
-							<div className="transition duration-500 ease-in-out group-hover:text-softRed">
+						<div className="flex items-center justify-between py-3 text-veryDarkBlue transition duration-500 cursor-pointer group ease-in">
+							<div className="transition duration-500 ease-in group-hover:text-softRed">
 								What is Bookmark ?
 							</div>
-							<div className="transition duration-500 ease-in-out group-focus:rotate-180 group-focus:text-softRed">
+							<div className="transition duration-500 ease-in group-focus:rotate-180 group-focus:text-softRed">
 								<img src={arrow}></img>
 							</div>
 						</div>
@@ -36,11 +36,11 @@ const Accordion = () => {
 					<div
 						className="py-1 border-b outline-none group "
 						tabIndex={2}>
-						<div className="flex items-center justify-between py-3 text-veryDarkBlue transition duration-500 cursor-pointer group ease-in-out">
-							<div className="transition duration-500 ease-in-out group-hover:text-softRed">
+						<div className="flex items-center justify-between py-3 text-veryDarkBlue transition duration-500 cursor-pointer group ease-in">
+							<div className="transition duration-500 ease-in group-hover:text-softRed">
 								How can I request a new browser?
 							</div>
-							<div className="transition duration-500 ease-in-out group-focus:rotate-180 group-focus:text-softRed">
+							<div className="transition duration-500 ease-in group-focus:rotate-180 group-focus:text-softRed">
 								<img src={arrow}></img>
 							</div>
 						</div>
@@ -63,11 +63,11 @@ const Accordion = () => {
 					<div
 						className="py-1 border-b outline-none group "
 						tabIndex={3}>
-						<div className="flex items-center justify-between py-3 text-veryDarkBlue transition duration-500 cursor-pointer group ease-in-out">
-							<div className="transition duration-500 ease-in-out group-hover:text-softRed">
+						<div className="flex items-center justify-between py-3 text-veryDarkBlue transition duration-500 cursor-pointer group ease-in">
+							<div className="transition duration-500 ease-in group-hover:text-softRed">
 								What is Bookmark ?
 							</div>
-							<div className="transition duration-500 ease-in-out group-focus:rotate-180 group-focus:text-softRed">
+							<div className="transition duration-500 ease-in group-focus:rotate-180 group-focus:text-softRed">
 								<img src={arrow}></img>
 							</div>
 						</div>
@@ -91,11 +91,11 @@ const Accordion = () => {
 					<div
 						className="py-1 border-b outline-none group "
 						tabIndex={4}>
-						<div className="flex items-center justify-between py-3 text-veryDarkBlue transition duration-500 cursor-pointer group ease-in-out">
-							<div className="transition duration-500 ease-in-out group-hover:text-softRed">
+						<div className="flex items-center justify-between py-3 text-veryDarkBlue transition duration-500 cursor-pointer group ease-in ">
+							<div className="transition duration-500 ease-in group-hover:text-softRed">
 								What about other Chromium Browsers ?
 							</div>
-							<div className="transition duration-500 ease-in-out group-focus:rotate-180 group-focus:text-softRed">
+							<div className="transition duration-500 ease-in group-focus:rotate-180 group-focus:text-softRed">
 								<img src={arrow}></img>
 							</div>
 						</div>
@@ -111,6 +111,13 @@ const Accordion = () => {
 							</p>
 						</div>
 					</div>
+				</div>
+				<div className="flex justify-center items-center py-12">
+					<a
+						href="#"
+						className="py-4 px-8 bg-softBlue text-gray-100 font-medium rounded-md">
+						More Info
+					</a>
 				</div>
 			</div>
 		</section>
