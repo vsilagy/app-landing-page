@@ -13,10 +13,10 @@ const Hero = () => {
 						instantly. Try it for free.
 					</p>
 					<div className="flex justify-center items-center gap-5 lg:justify-start">
-						<a className="py-3 px-6 font-medium text-white bg-softBlue rounded-md shadow-lg hover:bg-white hover:text-softBlue hover:border-softBlue hover:border-2 outline-none">
+						<a className="py-3 px-6 font-medium text-white bg-softBlue rounded-md shadow-lg bp hover:bg-white hover:text-softBlue hover:ring-softBlue hover:ring-2 outline-none">
 							Get it on Chrome
 						</a>
-						<a className="py-3 px-6 font-medium text-veryDarkBlue bg-gray-200 rounded-md shadow-lg hover:bg-white hover:text-veryDarkBlue hover:border-veryDarkBlue hover:border-2 outline-none">
+						<a className="py-3 px-6 font-medium text-veryDarkBlue bg-gray-200 rounded-md shadow-lg hover:bg-white hover:text-veryDarkBlue hover:ring-veryDarkBlue hover:ring-2 outline-none">
 							Get it on Safari
 						</a>
 					</div>

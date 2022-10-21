@@ -7,6 +7,7 @@ import Cards from './components/Cards';
 import Faq from './components/Faq';
 import Newsletter from './components/Newsletter';
 import Footer from './components/Footer';
+import data from './assets/tab-data.json';
 
 export default function App() {
 	return (
