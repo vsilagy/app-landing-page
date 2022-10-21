@@ -2,7 +2,6 @@ const Faq = () => {
 	return (
 		<section>
 			<div className="container mx-auto">
-				>
 				<h3 className="text-veryDarkBlue mb-6 text-2xl font-medium text-center md:text-3xl">
 					Frequently Asked Questions
 				</h3>

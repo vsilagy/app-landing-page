@@ -5,9 +5,9 @@ import Tabs from './components/Tabs';
 import Download from './components/Download';
 import Cards from './components/Cards';
 import Faq from './components/Faq';
+import Accordion from './components/Accordion';
 import Newsletter from './components/Newsletter';
 import Footer from './components/Footer';
-import data from './assets/tab-data.json';
 
 export default function App() {
 	return (
@@ -19,6 +19,7 @@ export default function App() {
 			<Download />
 			<Cards />
 			<Faq />
+			<Accordion />
 			<Newsletter />
 			<Footer />
 		</>
