@@ -58,9 +58,7 @@ const Tabs = () => {
 							how you manage your favourite sites.
 						</p>
 						<div className="mx-auto md:mx-0">
-							<a
-								href="#"
-								className="px-6 py-3 mt-4 font-semibold outline-none text-white border-2 rounded-lg md:inline-flex bg-softBlue hover:bg-white hover:text-softBlue hover:border-softBlue hover:border-2">
+							<a href="#" className="mt-8 btn-info md:inline-flex">
 								More Info
 							</a>
 						</div>
@@ -87,9 +85,7 @@ const Tabs = () => {
 							your bookmarks.
 						</p>
 						<div className="mx-auto md:mx-0">
-							<a
-								href="#"
-								className="px-6 py-3 mt-4 font-semibold outline-none text-white border-2 rounded-lg md:inline-flex bg-softBlue hover:bg-white hover:text-softBlue hover:border-softBlue hover:border-2">
+							<a href="#" className="mt-8 btn-info md:inline-flex">
 								More Info
 							</a>
 						</div>
@@ -116,9 +112,7 @@ const Tabs = () => {
 							of a button.
 						</p>
 						<div className="mx-auto md:mx-0">
-							<a
-								href="#"
-								className="px-6 py-3 mt-4 font-semibold outline-none text-white border-2 rounded-lg md:inline-flex bg-softBlue hover:bg-white hover:text-softBlue hover:border-softBlue hover:border-2">
+							<a href="#" className="mt-8 btn-info md:inline-flex">
 								More Info
 							</a>
 						</div>

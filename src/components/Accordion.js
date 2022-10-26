@@ -113,9 +113,7 @@ const Accordion = () => {
 					</div>
 				</div>
 				<div className="flex justify-center items-center py-12">
-					<a
-						href="#"
-						className="py-4 px-8 bg-softBlue text-gray-100 font-medium rounded-md">
+					<a href="#" className="btn-info">
 						More Info
 					</a>
 				</div>
