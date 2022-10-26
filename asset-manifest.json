@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/app-landing-page/static/css/main.652f7139.css",
+    "main.js": "/app-landing-page/static/js/main.c8b9e665.js",
+    "static/media/logo-safari.svg": "/app-landing-page/static/media/logo-safari.03bb27029469e4091b8b148669849694.svg",
+    "static/media/illustration-features-tab-3.svg": "/app-landing-page/static/media/illustration-features-tab-3.a4206aab7946773b29b702492d2d014b.svg",
+    "static/media/illustration-features-tab-2.svg": "/app-landing-page/static/media/illustration-features-tab-2.e933bd6d921c537d7743e08ea4ec488e.svg",
+    "static/media/illustration-hero.svg": "/app-landing-page/static/media/illustration-hero.07801d05cb11930f0c826add8c05ce22.svg",
+    "static/media/logo-bookmark.svg": "/app-landing-page/static/media/logo-bookmark.d426263a94701e122e7d14b0c6eee7ce.svg",
+    "static/media/logo-bookmark-footer.svg": "/app-landing-page/static/media/logo-bookmark-footer.b662f10c88e0d89dbccb3d5cbc583c7e.svg",
+    "static/media/illustration-features-tab-1.svg": "/app-landing-page/static/media/illustration-features-tab-1.0da3d302207bcad90cdadc5052e35ed6.svg",
+    "static/media/logo-chrome.svg": "/app-landing-page/static/media/logo-chrome.a42815a014c452e4d95851f7a8daf95b.svg",
+    "static/media/logo-firefox.svg": "/app-landing-page/static/media/logo-firefox.a9e6ca53e8cfd641e556b7afb1f0085f.svg",
+    "static/media/bg-dots.svg": "/app-landing-page/static/media/bg-dots.90f0b46cec8b5f7cfd12.svg",
+    "index.html": "/app-landing-page/index.html",
+    "static/media/icon-twitter.svg": "/app-landing-page/static/media/icon-twitter.dde79e7edd3892319de2ee22ea7ca39d.svg",
+    "static/media/icon-facebook.svg": "/app-landing-page/static/media/icon-facebook.8b45ba94b5f75f0d38a9bbcc11df55c2.svg",
+    "static/media/icon-close.svg": "/app-landing-page/static/media/icon-close.b04dc29397de9c9f194fb075c140e966.svg",
+    "static/media/icon-hamburger.svg": "/app-landing-page/static/media/icon-hamburger.4385fd507d24f37ccbb3ae359b5c9555.svg",
+    "static/media/icon-arrow.svg": "/app-landing-page/static/media/icon-arrow.8174203a5d4fc44f5247b825de6e2158.svg",
+    "main.652f7139.css.map": "/app-landing-page/static/css/main.652f7139.css.map",
+    "main.c8b9e665.js.map": "/app-landing-page/static/js/main.c8b9e665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.652f7139.css",
+    "static/js/main.c8b9e665.js"
+  ]
+}
